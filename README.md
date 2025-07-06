@@ -12,3 +12,4 @@ This project is a Spring Boot application that demonstrates secure user authenti
 ✅Token validation for protected routes.  
 ✅Clean project structure using Spring best practices.  
 ✅Easily extendable for frontend (React, Angular, etc.).  
+
